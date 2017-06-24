@@ -1,0 +1,3 @@
+ban-time: 0 #seconds
+ban-message: '&aYou died! You have been banned until {DATE}'
+banned-players:
